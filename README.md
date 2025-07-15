@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/path/to/your/domino-image.png?raw=true" alt="Domino Dice - Let's keep score!" width="200"/>
-  </p>
-
+   <img  alt="dominoes" src="https://github.com/user-attachments/assets/86dfce3e-9a77-4039-8a3a-65231a09f379" width="120"/>
+</p>
+  
 <h1 align="center">Domino Points Tracker</h1>
 
 ---
